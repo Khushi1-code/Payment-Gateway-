@@ -1,0 +1,27 @@
+body{
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    font-family:Arial;
+
+}
+
+.container{
+
+    text-align:center;
+
+}
+
+button{
+
+    padding:12px 20px;
+    border:none;
+    background:black;
+    color:white;
+    border-radius:8px;
+    cursor:pointer;
+    font-size:16px;
+
+}
