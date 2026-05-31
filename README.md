@@ -56,7 +56,7 @@ Since this runs in **Razorpay Test Mode**, use these to simulate a payment:
 
 | Method | Details |
 |--------|---------|
-| Card | `4718 6092 0929 9724` • CVV: `123` • OTP: `1234` |
+| Card | `5267 3181 8797 5449` • CVV: `123` • OTP: `1234` |
 
 ---
 
@@ -71,3 +71,4 @@ Payment-Gateway/
 ├── package.json      # Dependencies
 └── .gitignore        # Ignored files
 ``
+⚠️ Never push your .env file to GitHub.
